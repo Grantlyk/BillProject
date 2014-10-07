@@ -15,7 +15,7 @@ This project is still in the early stages and once a stable application has been
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+This will be updated once tests are written
 
 
 ## Contributors
